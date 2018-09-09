@@ -1,0 +1,29 @@
+---
+title: "Wk2 607 Movie Hui Gracie Han"
+author: "Hui (Gracie) Han"
+date: "September 9, 2018"
+output: html_documen
+
+
+
+```{r}
+library(RMySQL)
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
